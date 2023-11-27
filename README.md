@@ -15,6 +15,9 @@ This application uses the NextJS App Directory and NextAuth to handle server and
 # Copy template using degit
 npx degit https://github.com/msherburne/nextjs-keycloak <APP NAME>
 
+# Using create-next-app
+npx create-next-app --example https://github.com/msherburne/nextjs-keycloak <YOUR_APP_NAME>
+
 ```
 
 ## Deployment Options
